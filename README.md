@@ -1,20 +1,48 @@
-# 4월 7일 금요일 장고 + DB 프로젝트
+## Welcome to SUITEE.
+a WEB-based personal digital dashboard
+<br>
 
-## 요구명세
-- movies란 app을 만들고 영화 데이터의 생성, 조회, 수정, 삭제(CRUD)가 가능한 애플리케이션을 완성합니다. 
-- 로그인, 로그아웃, 회원가입, 회원탈퇴, 회원정보수정, 비밀번호변경이 가능한 애플리케이션을 완성합니다. (accounts 앱)
+### Introduction
+- Include various widgets, apps, bookmarks to your digital dashboard.
+- Easily create your own app or widget to boost your work efficieny.
 
-- Movie, User 모델 클래스를 정의해야 합니다.
-- Movie 모델 클래스의 이름은 Movie입니다. 다음과 같은 정보를 저장합니다.
-  ```
-  title: varchar(20): 영화 제목
-  description: text : 줄거리
-  ```
+### App based User Interface
+- SUITEE benchmarked the intuiveness and usability of smartphones and tablet UIs.
 
-- User 모델 클래스의 이름은 User임, AbstractUser 모델 클래스를 상속받는 커스텀 모델을 사용합니다.
+### What can I do with SUITEE?
+Track real-time web data
+- Data Extraction: Automate the process of extracting data from websites. Track & view all the process by making your own widget.
 
+More Customization, More Freedom
+- Customize overall theme, color, menu layout that suits you. 
 
+---
+## Table of Contents
+- [How_it_will_work](#how_it_will_work)
+- [Roadmap](#Roadmap)
+- [Recent Updates](#Recent-Updates)
 
+---
+## How_it_will_Work
+### Apps
+1. Built-In Apps
+2. User Custom Apps (simple website link)
+### Widgets
+1. Built-In Widgets (clock, alarm, maps, etc.)
+2. User Custom Widgets (Data extraction from website and view on widget)
+
+---
+## Roadmap
+This is a brief overview of future improvements.
+1. Home app Creation (HTML, CSS, JS)
+2. Lock screen Creation
+3. Add Google Login.
+4. Create first app (A light & basic community app that shows whether lunch boxes are out of stack in the cafeteria in real-time)
+5. Add a feature that allows users to add website-linked apps to home screen.
+
+---
+## Recent-Updates
+---
 
 
 
