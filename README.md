@@ -1,5 +1,5 @@
 ## Welcome to SUITEE.
-a WEB-based personal digital dashboard
+a WEB-based personal digital dashboard, made with Django.
 <br>
 
 ### Introduction
@@ -35,7 +35,7 @@ More Customization, More Freedom
 ## Roadmap
 This is a brief overview of future improvements.
 1. Home app Creation (HTML, CSS, JS)
-2. Lock screen Creation
+2. Login screen Creation
 3. Add Google Login.
 4. Create first set of apps (Github )
 5. Add a feature that allows users to add website-linked apps to home screen.

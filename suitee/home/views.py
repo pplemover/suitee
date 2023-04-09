@@ -3,7 +3,7 @@ from django.shortcuts import render, redirect
 
 
 @login_required
-def homelogin(request):
+def login(request):
     return render(request, 'home/login.html')
 # if a user tries to access the home page without being logged in, they will be redirected to the login page.
 

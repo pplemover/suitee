@@ -6,7 +6,7 @@ app_name = 'home'
 urlpatterns = [
     # home page
     path('', views.home, name='home'),
-    path('homelogin/', views.homelogin, name='homelogin'),
+    path('login/', views.login, name='login'),
     path('accounts/', include('allauth.urls')),
     path('logout/', auth_views.LogoutView.as_view(), name='logout'),
 ]

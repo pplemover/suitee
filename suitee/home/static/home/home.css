@@ -5,20 +5,10 @@ body {
   text-decoration: none;
 }
 
-.default_letter {
-  font-size: 20px;
-  font-weight: bold;
-  font-family: Arial;
-  color: white;
-
-  margin-top: 0px;
-  margin-bottom: 30px;
-}
-
 /* MOBILE */
 .mobile_screen {
   width: 480px;
-  margin: 0px auto 0px auto;
+  margin: 0px auto;
 
   position: fixed;
   top: 0;
@@ -39,8 +29,14 @@ body {
 }
 
 /* MAIN */
-.main {
-  height: 100%;
+.applications {
+  position: absolute;
+  top: 14px;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
 }
 
 .applications > .row > .app {
@@ -103,3 +99,11 @@ body {
   font-size: 15px;
 }
 
+/* IFRAME */ 
+iframe {
+  position: absolute;
+  top: 0;
+  left: 480px;
+  width: calc(50% - 480px);
+  height: 100%;
+}
