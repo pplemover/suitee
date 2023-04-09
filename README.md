@@ -37,8 +37,10 @@ This is a brief overview of future improvements.
 1. Home app Creation (HTML, CSS, JS)
 2. Lock screen Creation
 3. Add Google Login.
-4. Create first app (A light & basic community app that shows whether lunch boxes are out of stack in the cafeteria in real-time)
+4. Create first set of apps (Github )
 5. Add a feature that allows users to add website-linked apps to home screen.
+6. Add iframe feature where users can view their preferred websites without leaving suitee.
+7. Add search feature where users can search new apps and widgets made by other users.
 
 ---
 ## Recent-Updates
