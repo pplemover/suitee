@@ -34,13 +34,16 @@ More Customization, More Freedom
 ---
 ## Roadmap
 This is a brief overview of future improvements.
-1. Home app Creation (HTML, CSS, JS)
-2. Login screen Creation
-3. Add Google Login.
-4. Create first set of apps (Github )
-5. Add a feature that allows users to add website-linked apps to home screen.
-6. Add iframe feature where users can view their preferred websites without leaving suitee.
-7. Add search feature where users can search new apps and widgets made by other users.
+1. Create a Django model to represent a user's page. (Users can customize (1) custom app and widgets & location, (2) preferred background)
+2. Create a view that allows users to create and eit their page. This view uses Django's authentication system to ensure that only the owner of the page can edit it.
+3. Create a 'home' template that displays the user's page. This template should use Django's template language to render the content that the user has customized.  
+4. Login screen Creation
+5. Create a URL pattern that mpas to the view created in step 2. This URL should include a unique identifier for the user's page, such as the user's username or a random UUID.
+6. Add Google Login.
+7. Create first set of Built-in apps & Widgets ((1) Album, (2) Clock, (3) Calculator)
+8. Add a feature that allows users to add website-linked apps to home screen.
+9. Add iframe feature where users can view their preferred websites without leaving suitee.
+10. Add search feature where users can search new apps and widgets made by other users.
 
 ---
 ## Recent-Updates
