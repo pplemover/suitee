@@ -41,8 +41,10 @@ function getClock(){
 setInterval(getClock, 1000);
 
 // WIDE SCREEN
-var iframe = document.querySelector('#wide_screen1');
-iframe.src = 'https://www.mega-mgccoffee.com/';
-iframe.width = '100%';
-iframe.height = '500px';
-document.body.appendChild(iframe);
+const iframe = document.getElementById('my-iframe');
+const link = document.querySelector('.embedded-link');
+
+link.addEventListener('click', function(e) {
+  e.preventDefault();
+  iframe.src = link.href;
+});
