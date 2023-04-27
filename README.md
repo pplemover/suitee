@@ -11,17 +11,9 @@ Recreating the WEB Experience
 
 ---
 ## Table of Contents
-- [Welcome to SUITEE.](#welcome-to-suitee)
-  - [Introduction](#introduction)
-- [Table of Contents](#table-of-contents)
-- [How\_it\_will\_Work](#how_it_will_work)
-  - [Apps](#apps)
-  - [Widgets](#widgets)
-- [Roadmap](#roadmap)
-  - [1. Modelling](#1-modelling)
-  - [2. Interface Design \& Dev.](#2-interface-design--dev)
-  - [3. Built-in apps \& Widgets](#3-built-in-apps--widgets)
-- [Recent-Updates](#recent-updates)
+- [How_it_will_work](#how_it_will_work)
+- [Roadmap](#Roadmap)
+- [Recent Updates](#Recent-Updates)
 
 ---
 ## How_it_will_Work
