@@ -10,19 +10,27 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.2/ref/settings/
 """
 import os
-from dotenv import load_dotenv
+import pymysql
+import environ
 from pathlib import Path
-
-# use the 'dotenv' library to load the environment variables form the '.env' file and sets them as the values of 'GOOGLE_CLIENT_ID' and 'GOOGLE_CLIENT_SECRET'
-load_dotenv()
-GOOGLE_CLIENT_ID = os.getenv('GOOGLE_CLIENT_ID')
-GOOGLE_CLIENT_SECRET = os.getenv('GOOGLE_CLIENT_SECRET')
-
-# Django Secret Key
-SECRET_KEY = os.getenv('SECRET_KEY')
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
+
+env = environ.Env(DEBUG=(bool, True))
+
+environ.Env.read_env(
+    env_file=os.path.join(BASE_DIR, '.env')
+)
+
+pymysql.install_as_MySQLdb()
+
+# use the 'dotenv' library to load the environment variables form the '.env' file and sets them as the values of 'GOOGLE_CLIENT_ID' and 'GOOGLE_CLIENT_SECRET'
+GOOGLE_CLIENT_ID = env('GOOGLE_CLIENT_ID')
+GOOGLE_CLIENT_SECRET = env('GOOGLE_CLIENT_SECRET')
+
+# Django Secret Key
+SECRET_KEY = env('SECRET_KEY')
 
 
 # Quick-start development settings - unsuitable for production
