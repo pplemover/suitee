@@ -1,5 +1,5 @@
 ## Welcome to SUITEE.
-Recreating the WEB Experience
+Recreating the WEB Experience for daily workers
 <br>
 
 ### Introduction
