@@ -36,6 +36,7 @@ This is a brief overview of future improvements.
 - Home template that displays the user's page. 
 - Add iframe feature where users can view their preferred websites without leaving suitee.
 - Login Screen
+- Save
 
 ### 3. Built-in apps & Widgets
 - SUITEE-Store
