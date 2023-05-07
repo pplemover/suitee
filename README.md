@@ -41,8 +41,9 @@ This is a brief overview of future improvements.
 ### 3. Built-in apps & Widgets
 - SUITEE-Store
 - Album
-- Clock
+- Clock, Stopwatch
 - Calculator
+- To-do App
 
 ---
 ## Recent-Updates
