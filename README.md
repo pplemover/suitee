@@ -1,28 +1,30 @@
 ## Welcome to SUITEE.
-Recreating the WEB Experience for daily workers
+The New Gateway to the Internet World.
 <br>
 
-### Introduction
-- Shortcut: Add personal widgets, apps, bookmarks to your personal page.
-- Multi-Tasking: Manage multiple tasks in a single browser tab.
-- SUITE-STORE: Download and use useful apps and widgets created by other users.
-- Customization: Customize overall theme, color, menu layout that suits you. 
-- Aesthetic: SUITEE brings you the mobile exprience to your desktop.
+### Main Features
+- Add apps and widgets on your home screen. It enhances your internet surfing experience.
+- Open two windows in a single browser tab. No more tab switches.
+- Visit `Suitees`, SUITEE's app store. Download and use apps and widgets uploaded by other users.
+- We pursue both functionality and aesthetics. Customize overall theme, color, menu layout that suits you. 
 
 ---
 ## Table of Contents
-- [How_it_will_work](#how_it_will_work)
+- [Apps and Widgets](#Apps-and-Widgets)
+- [Instructions](#Instructions)
 - [Roadmap](#Roadmap)
 - [Recent Updates](#Recent-Updates)
 
----
-## How_it_will_Work
-### Apps
-1. Built-In Apps
-2. User Custom Apps (simple website link)
-### Widgets
-1. Built-In Widgets (clock, alarm, maps, etc.)
-2. User Custom Widgets (Data extraction from website and view on widget)
+## Apps and Widgets
+- Bookmarks in a Chrome or Edge provide a convenient way to access frequently visited webpages. Users can quickly navigate to their saved webpages, saving time and effort.
+- An `app` in SUITEE simply refers to a bookmark, which is an URL address to another 3rd party website. But the name `app` comes from design of the bookmark, as it looks like an app from a smartphone or tablet. 
+- Then why should one use `app` in Suitee rather than bookmarks in a browser? Managing a large number of bookmarks can become challenging. As the number of bookmarks increases, organizing and maintaining the bookmark list may require time and effort.
+- SUITEE allows users to group similar `app` for different circumstances.
+- A `widget` is a simple extension of a function of an `app`. Widgets come in various sizes, are customizable, and can be placed on any availble `home panel` for quick access. For example, a to-do widget provides a quick screen of upcoming to-do items without opening the to-do app.
+- User selection of apps and widgets are stored in the cloud, enabling synchronization across different devices and browsers. 
+
+## Instructions
+- SUITEE works just like your mobile phone. To relocate the app icon on the `home panel`, click and hold the app, move it to the desired location, and then release it to place it in that location. To remove the app icon from the `home panel`, click and hold the app, and then select `Remove`. The app no longer appears on the home screen, but can be found on `My Apps`.
 
 ---
 ## Roadmap
@@ -43,7 +45,11 @@ This is a brief overview of future improvements.
 - Album
 - Clock, Stopwatch
 - Calculator
-- To-do App
+- To-do App 
+- Calendar
+- File Storage
+- Photo
+- Built-in Messenger
 
 ---
 ## Recent-Updates
