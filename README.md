@@ -18,10 +18,8 @@ The New Gateway to the Internet World.
 - Bookmarks in a Chrome or Edge browser provide a convenient way to access frequently visited webpages. Users can quickly navigate to their saved webpages, saving time and effort.
 - However bookmarks can be quite annoying since it is hard to recognize which is which when there are a bunch of bookmark. As the number of bookmarks increases, organizing and maintaining the bookmark list may require time and effort.
 - An `app` in SUITEE is simply a bookmark, an URL address to another 3rd party website. But in SUITEE, `app`s can be grouped by its form, properties, and functions. 
-<br>
 - A `widget` is a simple extension of a function of an `app`. Widgets come in various sizes, are customizable, and can be placed on any availble `home panel` for quick access. For example, a to-do widget provides a quick screen of upcoming to-do items without opening the to-do app.
-<br>
-- User selection of apps and widgets are stored in the cloud, enabling synchronization across different devices and browsers. 
+- User selection of `app`s and `widget`s are stored in the cloud, enabling synchronization across different devices and browsers. 
 
 ## Instructions
 - SUITEE works just like your mobile phone. To relocate the app icon on the `home panel`, click and hold the app, move it to the desired location, and then release it to place it in that location. To remove the app icon from the `home panel`, click and hold the app, and then select `Remove`. The app no longer appears on the home screen, but can be found on `My Apps`.
