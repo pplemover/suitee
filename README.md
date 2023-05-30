@@ -4,7 +4,6 @@ The New Gateway to the Internet World.
 
 ### Main Features
 - Add apps and widgets on your home screen. It enhances your internet surfing experience.
-- Open two windows in a single browser tab. No more tab switches.
 - Visit `Suitees`, SUITEE's app store. Download and use apps and widgets uploaded by other users.
 - We pursue both functionality and aesthetics. Customize overall theme, color, menu layout that suits you. 
 
@@ -16,11 +15,12 @@ The New Gateway to the Internet World.
 - [Recent Updates](#Recent-Updates)
 
 ## Apps and Widgets
-- Bookmarks in a Chrome or Edge provide a convenient way to access frequently visited webpages. Users can quickly navigate to their saved webpages, saving time and effort.
-- An `app` in SUITEE simply refers to a bookmark, which is an URL address to another 3rd party website. But the name `app` comes from design of the bookmark, as it looks like an app from a smartphone or tablet. 
-- Then why should one use `app` in Suitee rather than bookmarks in a browser? Managing a large number of bookmarks can become challenging. As the number of bookmarks increases, organizing and maintaining the bookmark list may require time and effort.
-- SUITEE allows users to group similar `app` for different circumstances.
+- Bookmarks in a Chrome or Edge browser provide a convenient way to access frequently visited webpages. Users can quickly navigate to their saved webpages, saving time and effort.
+- However bookmarks can be quite annoying since it is hard to recognize which is which when there are a bunch of bookmark. As the number of bookmarks increases, organizing and maintaining the bookmark list may require time and effort.
+- An `app` in SUITEE is simply a bookmark, an URL address to another 3rd party website. But in SUITEE, `app`s can be grouped by its form, properties, and functions. 
+<br>
 - A `widget` is a simple extension of a function of an `app`. Widgets come in various sizes, are customizable, and can be placed on any availble `home panel` for quick access. For example, a to-do widget provides a quick screen of upcoming to-do items without opening the to-do app.
+<br>
 - User selection of apps and widgets are stored in the cloud, enabling synchronization across different devices and browsers. 
 
 ## Instructions
