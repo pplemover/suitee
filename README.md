@@ -1,5 +1,5 @@
 ## Welcome to SUITEE.
-The New Gateway to the Internet World.
+The next-gen Task Manager.
 <br>
 
 ### Main Features
