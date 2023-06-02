@@ -3,9 +3,8 @@ The next-gen Task Manager.
 <br>
 
 ### Main Features
-- Add apps and widgets on your home screen. It enhances your internet surfing experience.
-- Visit `Suitees`, SUITEE's app store. Download and use apps and widgets uploaded by other users.
-- We pursue both functionality and aesthetics. Customize overall theme, color, menu layout that suits you. 
+- Your favorite websites, news sources, photos & videos, memos are transformed into an app in SUITEE pursuing functionality and aesthetics. It'ill enhance your internet surfing experience.
+- Visit SUITEE's built in `app store`. Download and use apps and widgets uploaded by other users.
 
 ---
 ## Table of Contents
@@ -19,7 +18,7 @@ The next-gen Task Manager.
 - However bookmarks can be quite annoying since it is hard to recognize which is which when there are a bunch of bookmark. As the number of bookmarks increases, organizing and maintaining the bookmark list may require time and effort.
 - An `app` in SUITEE is simply a bookmark, an URL address to another 3rd party website. But in SUITEE, `app`s can be grouped by its form, properties, and functions. 
 - A `widget` is a simple extension of a function of an `app`. Widgets come in various sizes, are customizable, and can be placed on any availble `home panel` for quick access. For example, a to-do widget provides a quick screen of upcoming to-do items without opening the to-do app.
-- User selection of `app`s and `widget`s are stored in the cloud, enabling synchronization across different devices and browsers. 
+- User selection of `app`s and `widget`s are stored in the cloud, enabling synchronization across different devices and browsers.
 
 ## Instructions
 - SUITEE works just like your mobile phone. To relocate the app icon on the `home panel`, click and hold the app, move it to the desired location, and then release it to place it in that location. To remove the app icon from the `home panel`, click and hold the app, and then select `Remove`. The app no longer appears on the home screen, but can be found on `My Apps`.
