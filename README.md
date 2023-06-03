@@ -43,6 +43,7 @@ This is a brief overview of future improvements.
 - File Storage
 - Photo
 - Built-in Messenger
+- Food Delivery Apps
 
 ---
 ## Recent-Updates
