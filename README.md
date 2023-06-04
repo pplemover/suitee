@@ -10,7 +10,7 @@ The next-gen Task Manager.
 ## Table of Contents
 - [Apps and Widgets](#Apps-and-Widgets)
 - [Roadmap](#Roadmap)
-- [Recent Updates](#Recent-Updates)
+- [Changelog](#Changelog)
 
 ## Apps and Widgets
 - Bookmarks in a Chrome or Edge browser provide a convenient way to access frequently visited webpages. Users can quickly navigate to their saved webpages, saving time and effort.
@@ -34,9 +34,9 @@ This is a brief overview of future improvements.
 - Save
 
 ### 3. Built-in apps & Widgets
-- SUITEE-Store
+- App Store
 - Album
-- Clock, Stopwatch
+- Clock
 - Calculator
 - To-do App 
 - Calendar
@@ -47,7 +47,7 @@ This is a brief overview of future improvements.
 - Mobility Apps
 
 ---
-## Recent-Updates
+## Changelog
 ---
 
 
