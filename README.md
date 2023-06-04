@@ -44,6 +44,7 @@ This is a brief overview of future improvements.
 - Photo
 - Built-in Messenger
 - Food Delivery Apps
+- Mobility Apps
 
 ---
 ## Recent-Updates
